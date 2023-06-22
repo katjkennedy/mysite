@@ -1,11 +1,5 @@
 ---
-title: "mysite"
+title: "Call it Whatever I want"
 ---
 
-This is a Quarto website.usethi
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This is a sample website built using Quarto.
