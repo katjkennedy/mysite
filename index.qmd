@@ -1,5 +1,9 @@
 ---
-title: "Call it Whatever I want"
+title: "Call it whatever I want"
+image: "C:\Users\kkenn\Documents\UA\Summer 2023\R class\mysite\docs\AdobeStock_531270710.jpeg"
+about: 
+   template: marquee
+   
 ---
 
 This is a sample website built using Quarto.
