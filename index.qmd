@@ -1,6 +1,6 @@
 ---
-title: "Call it whatever I want"
-image: "C:\Users\kkenn\Documents\UA\Summer 2023\R class\mysite\docs\AdobeStock_531270710.jpeg"
+title: "Call it whatever you want"
+image: AdobeStock_531270710.jpeg
 about: 
    template: marquee
    
